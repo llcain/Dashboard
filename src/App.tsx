@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="dashboard">
 
-      {/* Sidebar */}
+      {/* Sidebar */} 
       <aside className="sidebar">
 
         <h2 className="logo">
